@@ -15,7 +15,9 @@ p{
   text-align: center;
   font-size: x-large;
   font-family: fantasy;
-  color: darkblue
+  color: darkblue;
+  border: black;
+  border-style: solid;
 }
 
 div{
